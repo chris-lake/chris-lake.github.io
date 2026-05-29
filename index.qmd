@@ -3,9 +3,9 @@ title: "Chris Lake"
 subtitle: "Data Scientist · Causal Inference & Experimentation"
 ---
 
-I'm a data scientist specializing in causal inference, experimentation, and applied machine learning. I focus on answering *why* questions — not just *what* — using methods like difference-in-differences, synthetic control, and regression discontinuity.
+I'm a data scientist specializing in causal inference and experimentation. I architect and lead rigorous experiments on millions of users, taking end-to-end ownership of the experimental lifecycle, from proposing synthetic control frameworks for flagship product revamps to engineering automated workflows that safeguard millions in annual spend.
 
-I currently work in data science at Booking.com, where I build data products and analytical frameworks at scale.
+At Booking.com, one of the world's most sophisticated high-frequency experimentation environments, I lead experimental design for flagship products and bridge the gap between complex data infrastructure and high-impact business decisions.
 
 ## Projects
 
