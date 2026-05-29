@@ -1,0 +1,28 @@
+---
+title: "About"
+---
+
+## Background
+
+I'm Chris Lake, a data scientist specializing in causal inference and experimentation. I architect and lead rigorous experiments on millions of users, taking end-to-end ownership of the experimental lifecycle, from proposing synthetic control frameworks for flagship product revamps to engineering automated workflows that safeguard millions in annual spend.
+
+At Booking.com, one of the world's most sophisticated high-frequency experimentation environments, I lead experimental design for flagship products and bridge the gap between complex data infrastructure and high-impact business decisions.
+
+I'm looking for a challenge where I can lead impactful deep-dives that define a company's technical roadmap.
+
+## Technical Skills
+
+**Causal & Statistical Methods**
+Causal Inference · Synthetic Control · Difference-in-Differences · Regression Discontinuity · A/B Testing · Hypothesis Testing · Power Analysis · MDE Estimation · Multi-Linear Regression
+
+**Machine Learning**
+Predictive Modeling · XGBoost · scikit-learn
+
+**Languages & Tools**
+Python · SQL · dbt · Spark · Snowflake · AWS · Tableau · GitLab
+
+## Contact
+
+- Email: [lake.christopher.a@gmail.com](mailto:lake.christopher.a@gmail.com)
+- LinkedIn: [linkedin.com/in/lake-chris](https://www.linkedin.com/in/lake-chris)
+- GitHub: [github.com/chris-lake](https://github.com/chris-lake)

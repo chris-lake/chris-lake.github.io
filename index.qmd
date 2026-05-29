@@ -1,0 +1,20 @@
+---
+title: "Chris Lake"
+subtitle: "Data Scientist · Causal Inference & Experimentation"
+---
+
+I'm a data scientist specializing in causal inference, experimentation, and applied machine learning. I focus on answering *why* questions — not just *what* — using methods like difference-in-differences, synthetic control, and regression discontinuity.
+
+I currently work in data science at Booking.com, where I build data products and analytical frameworks at scale.
+
+## Projects
+
+| Project | Methods | Domain |
+|---|---|---|
+| [NBA 65-Game Rule](projects.qmd) | Difference-in-Differences | Sports |
+| [Netflix Market Entry & Genre](projects.qmd) | Difference-in-Differences | Entertainment |
+| More coming soon | | |
+
+## Get in Touch
+
+- GitHub: [github.com/chris-lake](https://github.com/chris-lake)

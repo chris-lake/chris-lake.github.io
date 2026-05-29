@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Chris Lake, a data scientist specializing in causal inference and experimentation. I architect and lead rigorous experiments on millions of users, taking end-to-end ownership of the experimental lifecycle, from proposing synthetic control frameworks for flagship product revamps to engineering automated workflows that safeguard millions in annual spend.\nAt Booking.com, one of the world’s most sophisticated high-frequency experimentation environments, I lead experimental design for flagship products and bridge the gap between complex data infrastructure and high-impact business decisions.\nI’m looking for a challenge where I can lead impactful deep-dives that define a company’s technical roadmap."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chris Lake",
+    "section": "",
+    "text": "I’m a data scientist specializing in causal inference, experimentation, and applied machine learning. I focus on answering why questions — not just what — using methods like difference-in-differences, synthetic control, and regression discontinuity.\nI currently work in data science at Booking.com, where I build data products and analytical frameworks at scale."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Chris Lake",
+    "section": "Projects",
+    "text": "Projects\n\n\n\nProject\nMethods\nDomain\n\n\n\n\nNBA 65-Game Rule\nDifference-in-Differences\nSports\n\n\nNetflix Market Entry & Genre\nDifference-in-Differences\nEntertainment\n\n\nMore coming soon"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Chris Lake",
+    "section": "Get in Touch",
+    "text": "Get in Touch\n\nGitHub: github.com/chris-lake"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I’m Chris Lake, a data scientist specializing in causal inference and experimentation. I architect and lead rigorous experiments on millions of users, taking end-to-end ownership of the experimental lifecycle, from proposing synthetic control frameworks for flagship product revamps to engineering automated workflows that safeguard millions in annual spend.\nAt Booking.com, one of the world’s most sophisticated high-frequency experimentation environments, I lead experimental design for flagship products and bridge the gap between complex data infrastructure and high-impact business decisions.\nI’m looking for a challenge where I can lead impactful deep-dives that define a company’s technical roadmap."
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nCausal & Statistical Methods Causal Inference · Synthetic Control · Difference-in-Differences · Regression Discontinuity · A/B Testing · Hypothesis Testing · Power Analysis · MDE Estimation · Multi-Linear Regression\nMachine Learning Predictive Modeling · XGBoost · scikit-learn\nLanguages & Tools Python · SQL · dbt · Spark · Snowflake · AWS · Tableau · GitLab"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: lake.christopher.a@gmail.com\nLinkedIn: linkedin.com/in/lake-chris\nGitHub: github.com/chris-lake"
+  }
+]

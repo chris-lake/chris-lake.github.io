@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+A collection of data science projects focused on causal inference, experimentation, and applied machine learning.
+
+---
+
+## NBA 65-Game Rule — Causal Analysis of Injury Rates
+
+**Methods:** Difference-in-Differences
+**Domain:** Sports Analytics
+**Status:** In progress
+
+The NBA introduced a 65-game minimum in the 2023–24 season to qualify for end-of-season awards. This project investigates whether the rule change had the unintended consequence of increasing injury rates among star players, using a DiD design that compares star players to a control group of "sub-star" players before and after the rule's implementation.
+
+---
+
+## Netflix Market Entry & Genre Box Office
+
+**Methods:** Difference-in-Differences
+**Domain:** Entertainment / Media Economics
+**Status:** Data collection in progress
+
+When Netflix entered a new country, did it differentially suppress certain genres at the theatrical box office? This project uses Netflix's staggered international expansion as a natural experiment, combining IMDb genre data with European box office admissions from the Lumiere database.
+
+---
+
+*More projects coming soon.*
